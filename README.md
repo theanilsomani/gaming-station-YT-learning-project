@@ -1,3 +1,8 @@
+
+![Screenshot 2024-01-08 194141](https://github.com/theanilsomani/gaming-station-YT-learning-project/assets/129434364/cf86eeaa-3ede-4bdb-9737-35b6f5a9fa38)
+![Screenshot 2024-01-08 194222](https://github.com/theanilsomani/gaming-station-YT-learning-project/assets/129434364/3240b2d9-ee88-4eaa-b3fa-00014cb3cdcf)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
